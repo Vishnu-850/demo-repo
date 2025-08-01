@@ -1,2 +1,2 @@
 # demo
-HEllo thi is VIshnu ..
+HEllo this is VIshnu ..
